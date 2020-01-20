@@ -1,0 +1,6 @@
+E:\Pranavi\HTML\16th Jan\ConsoleProject\bin\Debug\ConsoleProject.exe.config
+E:\Pranavi\HTML\16th Jan\ConsoleProject\bin\Debug\ConsoleProject.exe
+E:\Pranavi\HTML\16th Jan\ConsoleProject\bin\Debug\ConsoleProject.pdb
+E:\Pranavi\HTML\16th Jan\ConsoleProject\obj\Debug\ConsoleProject.csprojAssemblyReference.cache
+E:\Pranavi\HTML\16th Jan\ConsoleProject\obj\Debug\ConsoleProject.exe
+E:\Pranavi\HTML\16th Jan\ConsoleProject\obj\Debug\ConsoleProject.pdb
